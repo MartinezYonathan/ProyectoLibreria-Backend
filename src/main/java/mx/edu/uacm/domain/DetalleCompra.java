@@ -21,9 +21,4 @@ public class DetalleCompra {
 	private int cantidadComprada;
 	private double descuento;
 
-	
-	@ManyToOne
-	private Publicacion publicacion;
-
-
 }
